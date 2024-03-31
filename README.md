@@ -3,3 +3,11 @@ I have so many fantastic ideas, tricks, roadmaps, and code snippets that I found
 
 # Why on github
 I'm too lazy to create a backend
+
+# Early versions of the idea
+**how-to Repository** 
+every post came from how-to will have how-to golden tag  
+**successfull dev guide Repository**
+...
+**Developer Roadmaps Project**
+I have trained and mentored many developers, and I know how to progress a developer knowledge and I had created SO MANY ROADMAPS that I need to post.  
